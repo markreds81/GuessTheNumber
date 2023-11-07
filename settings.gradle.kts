@@ -1,2 +1,3 @@
-rootProject.name = "guess-the-number-game"
+rootProject.name = "GuessTheNumber"
 include("core")
+include("console")

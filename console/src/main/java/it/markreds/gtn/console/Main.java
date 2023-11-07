@@ -1,5 +1,8 @@
-package it.markreds.gtn.core;
+package it.markreds.gtn.console;
 
+import it.markreds.gtn.core.AppConfig;
+import it.markreds.gtn.core.MessageGenerator;
+import it.markreds.gtn.core.NumberGenerator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.ConfigurableApplicationContext;
