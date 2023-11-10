@@ -5,7 +5,7 @@ plugins {
     id("io.freefair.lombok") version "8.4"
 }
 
-group = "it.markreds"
+group = "it.markreds.gtn"
 version = "0.0.1-SNAPSHOT"
 
 java {
